@@ -23208,7 +23208,7 @@ body.tp-magic-cursor #magic-cursor {
   border-radius: 50%;
   display: inline-block;
   transform: rotate(30deg);
-  background-color: var(--tp-common-red-3);
+  background-color: #e52b3a;
 }
 .tp-work-number i {
   position: absolute;
