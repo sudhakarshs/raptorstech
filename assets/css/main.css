@@ -5151,7 +5151,7 @@ body.tp-magic-cursor #magic-cursor {
   padding: 0 10px;
   border-radius: 30px;
   display: inline-block;
-  background-color: rgb(246, 246, 249);
+  background-color: #fff;
 }
 .tp-header-inner-style .tp-header-menu > nav > ul > li > a {
   padding: 10px 0;
@@ -9842,6 +9842,7 @@ body.tp-magic-cursor #magic-cursor {
 }
 .tp-copyright-2-left p a {
   color: var(--tp-common-white);
+  margin: 0 4px;
 }
 .tp-copyright-2-middle {
   padding-left: 40px;
@@ -21822,14 +21823,14 @@ body.tp-magic-cursor #magic-cursor {
   width: 50px;
   height: 50px;
   line-height: 1;
-  margin: 0 138px;
+  margin: 0 185px;
   border-radius: 60px;
   display: inline-block;
   background-color: var(--tp-common-white);
   border: 1px solid rgba(33, 33, 45, 0.1);
 }
 .it-project-arrow button:hover {
-  background-color: #7463FF;
+  background-color: #e52b3a;
   color: var(--tp-common-white);
 }
 .it-project-dots {
@@ -21851,7 +21852,7 @@ body.tp-magic-cursor #magic-cursor {
 }
 .it-project-dots .swiper-pagination-bullet.swiper-pagination-bullet-active {
   opacity: 1;
-  background: #7463FF;
+  background: #e52b3a;
 }
 
 .st-portfolio-ptb {
