@@ -2615,7 +2615,7 @@ input[type=color] {
 }
 .tp-breadcrumb-title {
   font-weight: 700;
-  font-size: 80px;
+  font-size: 50px;
   line-height: 1.5;
   margin-bottom: 0;
   letter-spacing: -0.03em;
@@ -36056,7 +36056,7 @@ body.tp-magic-cursor #magic-cursor {
   }
 }
 .tp-pd-2-overview-title {
-  font-size: 30px;
+  font-size: 25px;
   font-weight: 700;
   line-height: 1;
   letter-spacing:0px;
